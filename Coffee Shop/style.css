@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  background-color: rgb(39, 39, 39);
+  color: white;
+  padding: 16px;
+  text-align: center;
+  font-size: 24px;
+}
+nav {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  color: white;
+  background-color: rgb(241, 240, 240);
+  border-bottom: 2px rgb(213, 213, 213) solid;
+}
+nav a {
+  text-decoration: none;
+  font-size: 12px;
+  color: rgb(39, 39, 39);
+  font-weight: 700;
+  font-family: sans-serif;
+}
+.herosection {
+  display: flex;
+  justify-content: space-between;
+}
+.sidebar {
+  background-color: rgb(233, 233, 233);
+  width: 15%;
+
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+}
+.sidebar h3 {
+  padding-left: 5px;
+  padding-bottom: 12px;
+}
+.sidebar p {
+  color: rgb(84, 83, 83);
+  margin: 5px;
+  padding-bottom: 10px;
+}
+.sidebar-text{
+    border-bottom: 1px darkgray dashed;
+}
+.content {
+  padding: 12px;
+  padding-top: 18px;
+  width: 80%;
+  height: 100%;
+}
+footer {
+  background-color: rgb(39, 39, 39);
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 24px;
+}
+.images {
+  padding: 12px;
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+}
+img {
+  width: 30%;
+  height: 450px;
+}
+ul {
+  margin: 12px 36px;
+}
