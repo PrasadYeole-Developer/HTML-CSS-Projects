@@ -20,13 +20,15 @@ A clean and modern portfolio website that highlights projects and expertise in *
 A minimal and well-structured blog page featuring clean typography, intuitive navigation, and stylish content sections. Uses **HTML & CSS**, incorporating a **responsive layout** and interactive elements for readability.  
 
 ### Coffee Shop  
-A structured **two-column** coffee shop website with a **navigation bar, sidebar links, featured coffee varieties**, and high-quality images. Styled using **Flexbox** for better responsiveness.  
+A structured **two-column** coffee shop website with a **navigation bar, sidebar links, featured coffee varieties**, and high-quality images. Styled using **Flexbox** for better responsiveness.   
+
 ---
 ## 📌 Clone & Explore 
 **Clone the repository:**  
 ```bash
 git clone https://github.com/PrasadYeole-Developer/HTML-CSS-Projects.git
 ```
+
 ---
 ## 📬 Contact
 - **Email:** [prasadyeole.contact@gmail.com](mailto:prasadyeole.contact@gmail.com)  
