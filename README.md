@@ -26,3 +26,9 @@ A structured **two-column** coffee shop website with a **navigation bar, sidebar
 **Clone the repository:**  
 ```bash
 git clone https://github.com/PrasadYeole-Developer/HTML-CSS-Projects.git
+```
+
+## 📬 Contact
+- **Email:** [prasadyeole.contact@gmail.com](mailto:prasadyeole.contact@gmail.com)  
+- **LinkedIn:** [Prasad Yeole](https://www.linkedin.com/in/prasad-yeole-)  
+- **GitHub:** [PrasadYeole-Developer](https://github.com/PrasadYeole-Developer)  
